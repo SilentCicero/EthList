@@ -109,6 +109,7 @@ Contributors: Phil Kurtland (Scanate), Robert Hackett (Fortune Magazine), Jorge 
 )
 - [Words are Hard: Defining Common Terms in the Ethereum / Crypto Space](https://www.reddit.com/r/ethereum/comments/6kvp87/words_are_hard_defining_common_terms_in_the/)
 - [Getting up to speed on Ethereum](https://medium.com/@mattcondon/getting-up-to-speed-on-ethereum-63ed28821bbe)
+- [Super Beginners Guide to Ethereum](https://medium.com/@NickDodson/super-beginners-guide-to-ethereum-cc592c8b3c32)
 
 #### Security:
 - [The Crypto-Trader’s Guide to Online Security
